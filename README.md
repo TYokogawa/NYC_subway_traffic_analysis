@@ -56,3 +56,9 @@ By combining the results of our first two studies we were able to calculate a pr
 Thank you,
 
 Metis Data Science Team Aaron Mangum Daniel Shin Nick Smit Tohei Yokogawa
+
+------------------------------------
+Check the results on [my blog](http://tyokogawa.github.io/NYC_subway_traffic/).
+
+
+
